@@ -1,5 +1,12 @@
 # [Java] 列舉 Enum
 
+## 目錄
+
+- [Enum 的定義](#Enum-的定義)
+- [Enum 的特性](#Enum-的特性)
+- [來建立一個 Enum 吧](#來建立一個-Enum-吧)
+- [Reference](#Reference)
+
 ## Enum 的定義
 
 ```java
