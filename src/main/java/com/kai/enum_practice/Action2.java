@@ -1,7 +1,7 @@
 package com.kai.enum_practice;
 
 public enum Action2 implements Command{
-//    特別值類別本體(Value-specific class body)語法??
+//    特別值類別本體(Value-specific class body)語法
     START {
         public void execute() {
             System.out.println("開始");
